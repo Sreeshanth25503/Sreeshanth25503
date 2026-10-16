@@ -1,5 +1,6 @@
 <!--
   GitHub Profile README
+  Author: Sreeshanth P.
   GitHub: Sreeshanth25503
 -->
 
@@ -8,14 +9,16 @@
 # Hey, I'm Sreeshanth P. 👋
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated typing header"/>
 </a>
+
+### Full-Stack Development | Python | Artificial Intelligence
+
+Building practical applications, exploring intelligent systems, and turning ideas into code.
 
 <br/>
 
-I'm an early-career developer passionate about building web applications and exploring intelligent systems through AI and machine learning.
-
-<a href="https://sreeshanthportfolio.vercel.app/">
+<a href="https://sreeshanth-portfolio.vercel.app/#">
   <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/sreeshanthp/">
@@ -35,14 +38,16 @@ I'm an early-career developer passionate about building web applications and exp
 
 ## 👨‍💻 About Me
 
+I'm an early-career developer passionate about building useful software, developing modern web applications, and exploring artificial intelligence.
+
 - 💻 Interested in **Full-Stack Development, Python, and AI/ML**
 - 🐍 Exploring Python development, backend systems, and REST APIs
-- 🌐 Building interactive web experiences with JavaScript and React
+- 🌐 Building interactive web experiences with JavaScript and React.js
 - 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision
 - 📊 Interested in data analysis and solving real-world problems through technology
 - 🔬 Research background in deep learning and medical image analysis
 - 🚀 Focused on developing practical projects and continuously improving my skills
-- 🤝 Open to collaboration, meaningful projects, and software development opportunities
+- 🤝 Open to collaboration, interesting projects, and software development opportunities
 
 ---
 
@@ -100,13 +105,13 @@ I'm an early-career developer passionate about building web applications and exp
 
 A Python desktop application that provides weather information using weather APIs and location services.
 
-**Tech:** Python · Tkinter · WeatherAPI · Geopy · IPInfo
+**Technologies:** Python · Tkinter · WeatherAPI · Geopy · IPInfo
 
 ### 💬 Real-Time Chat Application
 
-A web development project focused on real-time messaging and interactive communication.
+A web application project focused on real-time messaging and interactive communication.
 
-**Tech:** JavaScript · Socket.IO · Web Technologies
+**Technologies:** JavaScript · Socket.IO · Web Technologies
 
 ### 🎬 Text-to-Video Generator
 
@@ -116,9 +121,11 @@ A project exploring automated video generation from text-based inputs.
 
 ### 🌐 Personal Portfolio Website
 
-A personal developer portfolio built to showcase projects, skills, and development experience.
+My personal website showcasing my projects, technical skills, and developer profile.
 
-**Tech:** React.js · Tailwind CSS · JavaScript · Vercel
+**Technologies:** React.js · Tailwind CSS · JavaScript · Vercel
+
+🔗 **Live website:** [sreeshanth-portfolio.vercel.app](https://sreeshanth-portfolio.vercel.app/#)
 
 <div align="center">
 
@@ -144,13 +151,13 @@ My research interests include deep learning, computer vision, and medical image 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sreeshanth25503&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sreeshanth25503&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Sreeshanth25503&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Sreeshanth25503&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeshanth25503&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeshanth25503&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 
 </div>
 
@@ -159,8 +166,6 @@ My research interests include deep learning, computer vision, and medical image 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<!-- Enable the GitHub Actions workflow described below to generate this image. -->
 
 <img src="https://raw.githubusercontent.com/Sreeshanth25503/Sreeshanth25503/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 
